@@ -1,0 +1,27 @@
+.blog{
+    border: 30px red solid;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: rgb(85, 240, 240);
+    height: 300px;
+    width: 50%;
+
+}
+.author-name{
+    color: red;
+}
+h1{
+    text-align: center;
+    font-weight: 700;
+}
+.blog-title{
+    text-align: center;
+    font-size: 2em;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.blog p{
+    color: rgb(184, 28, 145);
+    text-align: justify;
+}
